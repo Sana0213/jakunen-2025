@@ -6,7 +6,7 @@ export const Home = ({ filterData, handleChangeText, categories, handleChangeCat
 
     return (
 
-        <div className="button...">
+        <div className="home">
             <input className="textbox" type="text" onChange={handleChangeText} />
             <select className="カテゴリー" onChange={handleChangeCategory} >
                 <option value="">すべて</option>

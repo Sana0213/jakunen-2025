@@ -5,11 +5,19 @@
   text-align: center;
 }
 
+.home{
+  width: 500px;
+}
+
 .textbox,
 .category,
 .sort,
 .btn{
   margin: 5%;
+}
+
+.newpost{
+  width: 500px;
 }
 
 .card{
